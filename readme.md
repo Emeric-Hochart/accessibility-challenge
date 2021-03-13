@@ -51,3 +51,9 @@ Take this HTML and rewrite it to be as accessible as possible, given the strateg
   </body>
 </html>
 ```
+
+## Strategies
+
+ - Improve HTML structure and semantic heading tag
+ - Lighthouse : 89% to 100%
+ - check link text and url
